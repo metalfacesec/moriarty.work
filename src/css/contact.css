@@ -1,0 +1,16 @@
+.contact-card {
+    background-color: #022B3A !important;
+}
+
+.contact-form {
+    margin: 120px 0 120px 0;
+}
+
+.contact-form-send {
+    width: 100%;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #1F7A8C !important;
+    border-color: #1F7A8C !important;
+}
