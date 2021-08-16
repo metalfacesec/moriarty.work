@@ -4,14 +4,19 @@
 }
 
 .header-portrait-container {
-    margin: 100px 0 100px 0;
+    margin: 50px 0 50px 0 !important;
 }
 
 .header-name {
-    font-size: 18px;
-    margin: 5px 0 5px 0;
+    font-size: 22px;
 }
 
 .header-sub-text {
     font-size: 10px;
+}
+
+.header-about-me-text {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
 }
